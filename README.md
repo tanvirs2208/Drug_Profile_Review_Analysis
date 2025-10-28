@@ -12,6 +12,9 @@ Using Power BI’s interactive visuals, users can explore:
 - 💊 **Drug Details** such as composition, uses, and side effects  
 - 🎯 **Dynamic Filtering** to compare medicines interactively  
 
+## 📊 View Dashboard
+[🔗 Click here to view the dashboard](https://github.com/tanvirs2208/Drug_Profile_Review_Analysis/blob/main/Drug_Profile_Analysis_Dashboard.png)
+
 This project highlights:
 - Data cleaning and transformation in **Power Query**  
 - **DAX** calculations for KPI measures  
